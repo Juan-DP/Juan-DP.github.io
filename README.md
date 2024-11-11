@@ -32,7 +32,7 @@ Throughout my career, I’ve developed a strong technical foundation and a reput
 <img alt="NextJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=NextJS&color=000000&logo=Next.js&logoColor=FFFFFF&label=" style="margin:2px;"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
-<img alt="MYSQL" src="[https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)" style="margin:2px;"/>
+<img alt="MYSQL" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="margin:2px;"/>
 - **Additional Roles**: System Administration, Design Support
 
 I’m a "jack of all trades" who’s constantly learning and always ready to tackle new challenges, making a positive impact across projects and helping teams reach their goals.
