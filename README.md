@@ -27,7 +27,7 @@ Throughout my career, I’ve developed a strong technical foundation and a reput
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
 <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin:2px;"/>
-<img alt="MYSQL" src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white" style="margin:2px;"/>
+<img alt="SAP" src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white" style="margin:2px;"/>
 
 - **Additional Roles**: System Administration, Design Support
 
