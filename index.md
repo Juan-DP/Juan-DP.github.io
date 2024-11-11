@@ -24,7 +24,16 @@ Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global
 <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
 <img alt="LARAVEL" src="https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" style="margin:2px;"/>
 
-- **Link**: [GitHub Repository](#https://github.com/Juan-DP/teamEffortAPI)
+- **Link**: [GitHub Repository](https://github.com/Juan-DP/teamEffortAPI)
+
+###Project 4
+- **Description**: Commercial project I did integrating with [Qiibee](https://www.qiibee.com) and [Lufthansa](https://www.lufthansa.com/pt/en/homepage). The goal was to allow users to spend and win miles while purchasing from our catalog of VIP experiences.
+- **Technologies**:
+<img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
+
+- **Link**: [Website](https://milesandmore.daimani.com/)
+
 
 ## About Me
 
