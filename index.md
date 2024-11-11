@@ -5,6 +5,7 @@ Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global
 - **Description**: Idea I applied into an inside project at my current company, where I use [this article](https://laravel-news.com/working-with-third-party-services-in-laravel) as a source of inspiration, with a few tweaks of my own so I didn't have to create a file per resource I just reversed the dependencies.
 - **Technologies**: 
 <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
+
 - **Link**: [GitHub Repository](#)
 
 ### Project 2
@@ -13,6 +14,7 @@ Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global
 <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
+
 - **Link**: [Github-FE](https://github.com/Juan-DP/SWAPI-Integration-React-FE)
 - [Github-BE](https://github.com/Juan-DP/SWAPI-Laravel-Integration)
 
@@ -21,6 +23,7 @@ Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global
 - **Technologies**:
 <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
 <img alt="LARAVEL" src="https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" style="margin:2px;"/>
+
 - **Link**: [GitHub Repository](#https://github.com/Juan-DP/teamEffortAPI)
 
 ## About Me
