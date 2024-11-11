@@ -13,8 +13,7 @@ Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global
 <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
-- **Link**:
-- [Github-FE](https://github.com/Juan-DP/SWAPI-Integration-React-FE)
+- **Link**: [Github-FE](https://github.com/Juan-DP/SWAPI-Integration-React-FE)
 - [Github-BE](https://github.com/Juan-DP/SWAPI-Laravel-Integration)
 
 ###Project 3
