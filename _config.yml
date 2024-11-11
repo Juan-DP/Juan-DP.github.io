@@ -2,7 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Juan Pestana
-description: Software Engineer
+description: Me at Kojima Productions!
 logo: "/Juan.jpg"
 custom_css:
   - "body > div > header > img { border-radius: 50%; width: 150px; height: 150px; object-fit: cover; }"
