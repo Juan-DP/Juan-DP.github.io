@@ -5,6 +5,7 @@ Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global
 - **Description**: Idea I applied into an inside project at my current company, where I use [this article](https://laravel-news.com/working-with-third-party-services-in-laravel) as a source of inspiration, with a few tweaks of my own so I didn't have to create a file per resource I just reversed the dependencies. Making use of [Builder](https://refactoring.guru/design-patterns/builder) and [Facade](https://refactoring.guru/design-patterns/facade) design patterns
 - **Technologies**: 
 <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
+
 - **Link**: [GitHub Repository](#)
 
 ### Project 2
@@ -13,21 +14,24 @@ Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global
 <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
+
 - **Link**: [Github-FE](https://github.com/Juan-DP/SWAPI-Integration-React-FE)
 - **Link**: [Github-BE](https://github.com/Juan-DP/SWAPI-Laravel-Integration)
 
-###Project 3
+### Project 3
 - **Description**: This is another project I did as a freelancer where they wanted the backend basic structure and a couple key requirements (that is why some classes have update methods an others don't). You can check the database structure on the relations inside the models.
 - **Technologies**:
 <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
 <img alt="LARAVEL" src="https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" style="margin:2px;"/>
+
 - **Link**: [GitHub Repository](https://github.com/Juan-DP/teamEffortAPI)
 
-###Project 4
+### Project 4
 - **Description**: Commercial project I did integrating with [Qiibee](https://www.qiibee.com) and [Lufthansa](https://www.lufthansa.com/pt/en/homepage). The goal was to allow users to spend and win miles while purchasing from our catalog of VIP experiences.
 - **Technologies**:
 <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
+
 - **Link**: [Website](https://milesandmore.daimani.com/)
 
 
