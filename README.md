@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Welcome to My Portfolio
 Hello! I'm Juan, a Software Engineer
 
