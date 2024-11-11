@@ -2,7 +2,7 @@
 Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global/en)
 
 ### Project 1
-- **Description**: Idea I applied into an inside project at my current company, where I use [this article](https://laravel-news.com/working-with-third-party-services-in-laravel) as a source of inspiration, with a few tweaks of my own so I didn't have to create a file per resource I just reversed the dependencies. Making use of [Builder](https://refactoring.guru/design-patterns/builder) and [Facade](https://refactoring.guru/design-patterns/facade)_ design patterns
+- **Description**: Idea I applied into an inside project at my current company, where I use [this article](https://laravel-news.com/working-with-third-party-services-in-laravel) as a source of inspiration, with a few tweaks of my own so I didn't have to create a file per resource I just reversed the dependencies. Making use of [Builder](https://refactoring.guru/design-patterns/builder) and [Facade](https://refactoring.guru/design-patterns/facade) design patterns
 - **Technologies**: 
 <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
 
@@ -52,8 +52,7 @@ Throughout my career, I’ve developed a strong technical foundation and a reput
 
 
 - **Additional Roles**: System Administration, Design Support
-- **Favorite Design Patterns**: Unit of Work, 
-I’m a "jack of all trades" who’s constantly learning and always ready to tackle new challenges, making a positive impact across projects and helping teams reach their goals.
+- **Favorite Design Patterns**: Unit of Work, Facade, Builder
 
 ---
 
