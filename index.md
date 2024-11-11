@@ -2,7 +2,7 @@
 Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global/en)
 
 ### Project 1
-- **Description**: Idea I applied into an inside project at my current company, where I use [this article](https://laravel-news.com/working-with-third-party-services-in-laravel) as a source of inspiration, with a few tweaks of my own so I didn't have to create a file per resource I just reversed the dependencies.
+- **Description**: Idea I applied into an inside project at my current company, where I use [this article](https://laravel-news.com/working-with-third-party-services-in-laravel) as a source of inspiration, with a few tweaks of my own so I didn't have to create a file per resource I just reversed the dependencies. Making use of [Builder](https://refactoring.guru/design-patterns/builder) and [Facade](https://refactoring.guru/design-patterns/facade)_ design patterns
 - **Technologies**: 
 <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
 
@@ -16,7 +16,7 @@ Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
 
 - **Link**: [Github-FE](https://github.com/Juan-DP/SWAPI-Integration-React-FE)
-- [Github-BE](https://github.com/Juan-DP/SWAPI-Laravel-Integration)
+- **Link**: [Github-BE](https://github.com/Juan-DP/SWAPI-Laravel-Integration)
 
 ###Project 3
 - **Description**: This is another project I did as a freelancer where they wanted the backend basic structure and a couple key requirements (that is why some classes have update methods an others don't). You can check the database structure on the relations inside the models.
