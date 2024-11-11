@@ -1,0 +1,6 @@
+body > div > header > img {
+    border-radius: 50%;
+    width: 150px;  /* Adjust size as needed */
+    height: 150px; /* Ensures the image is perfectly circular */
+    object-fit: cover; /* Keeps the aspect ratio */
+}
