@@ -1,6 +1,5 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 body > div > header > img {
     border-radius: 50%;
