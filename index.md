@@ -37,7 +37,7 @@ Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global
 
 ## About Me
 
-I am passionate and versatile software engineer with a rich multicultural background and a dedication to delivering impactful, high-quality solutions.
+I am a versatile software engineer with a rich multicultural background and a dedication to delivering impactful, high-quality solutions.
 
 Originally from Venezuela, I moved to Portugal at 17, where I completed my degree in SE. Shortly after, I accepted an offer from the company where I had interned, marking the start of my professional journey. After a year and a half, I transitioned to my current role, working remotely for a Swiss company, where I've been part of the team for over a year.
 
