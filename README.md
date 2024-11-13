@@ -1,11 +1,6 @@
 # Welcome to My Portfolio
 Hello! I'm Juan, a Software Engineer
 
-### Project 1
-- **Description**: Idea I applied into an inside project at my current company, where I use [this article](https://laravel-news.com/working-with-third-party-services-in-laravel) as a source of inspiration, with a few tweaks of my own so I didn't have to create a file per resource I just reversed the dependencies.
-- **Technologies**: PHP
-- **Link**: [GitHub Repository](#)
-
 ## About Me
 
 I am passionate and versatile software engineer with a rich multicultural background and a dedication to delivering impactful, high-quality solutions.
