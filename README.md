@@ -24,10 +24,6 @@ Throughout my career, I’ve developed a strong technical foundation and a reput
 <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin:2px;"/>
 <img alt="SAP" src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap&logoColor=white" style="margin:2px;"/>
 
-- **Additional Roles**: System Administration, Design Support
-
-I’m a "jack of all trades" who’s constantly learning and always ready to tackle new challenges, making a positive impact across projects and helping teams reach their goals.
-
 ---
 
 ## Contact
