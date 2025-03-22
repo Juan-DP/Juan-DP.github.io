@@ -32,7 +32,7 @@ Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global
 <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
 
-- **Link**: [Website](https://milesandmore.daimani.com/)
+- **Link**: [~~Website~~](https://milesandmore.daimani.com/) (Project was sunset - contract expired with client)
 
 
 ## About Me
