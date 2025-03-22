@@ -20,22 +20,6 @@ Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global
 - **Link**: [Github-BE](https://github.com/Juan-DP/SWAPI-Laravel-Integration)
 
 ### Project 3
-- **Description**: This is another project I did as a freelancer where they wanted the backend basic structure and a couple key requirements to give them a head-start (that is why some classes have update methods an others don't). You can check the database structure on the relations inside the models.
-- **Technologies**:
-<img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
-<img alt="LARAVEL" src="https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" style="margin:2px;"/>
-
-- **Link**: [GitHub Repository](https://github.com/Juan-DP/teamEffortAPI)
-
-### Project 4
-- **Description**: Commercial project I did integrating with [Qiibee](https://www.qiibee.com) and [Lufthansa](https://www.lufthansa.com/pt/en/homepage). The goal was to allow users to spend and win miles while purchasing from our catalog of VIP experiences.
-- **Technologies**:
-<img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
-
-- **Link**: [~~Website~~](https://milesandmore.daimani.com/) (Project was sunset - contract expired with client)
-
-### Project 3
 - **Description**: This project is designed to test a custom translation model trained using multilingual sentence pairs. The dataset includes translations in several languages:
 
 **Portuguese**
@@ -55,6 +39,23 @@ Additionally, contextual information is provided within the training files to en
 <img alt="PHP" src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai&logoColor=white" style="margin:2px;"/>
 
 - **Link**: [Github Repository](https://github.com/Juan-DP/OpenAITranslationModel/tree/main)
+  
+### Project 4
+- **Description**: This is another project I did as a freelancer where they wanted the backend basic structure and a couple key requirements to give them a head-start (that is why some classes have update methods an others don't). You can check the database structure on the relations inside the models.
+- **Technologies**:
+<img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
+<img alt="LARAVEL" src="https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" style="margin:2px;"/>
+
+- **Link**: [GitHub Repository](https://github.com/Juan-DP/teamEffortAPI)
+
+### Project 5
+- **Description**: Commercial project I did integrating with [Qiibee](https://www.qiibee.com) and [Lufthansa](https://www.lufthansa.com/pt/en/homepage). The goal was to allow users to spend and win miles while purchasing from our catalog of VIP experiences.
+- **Technologies**:
+<img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
+
+- **Link**: [~~Website~~](https://milesandmore.daimani.com/) (Project was sunset - contract expired with client)
+
 ## About Me
 
 I am a versatile software engineer with a rich multicultural background and a dedication to delivering impactful, high-quality solutions.
