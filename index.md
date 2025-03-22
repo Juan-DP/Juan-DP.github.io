@@ -19,7 +19,7 @@ Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global
 - **Link**: [Github-BE](https://github.com/Juan-DP/SWAPI-Laravel-Integration)
 
 ### Project 3
-- **Description**: This is another project I did as a freelancer where they wanted the backend basic structure and a couple key requirements (that is why some classes have update methods an others don't). You can check the database structure on the relations inside the models.
+- **Description**: This is another project I did as a freelancer where they wanted the backend basic structure and a couple key requirements to give them a head-start (that is why some classes have update methods an others don't). You can check the database structure on the relations inside the models.
 - **Technologies**:
 <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
 <img alt="LARAVEL" src="https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" style="margin:2px;"/>
