@@ -12,6 +12,7 @@ Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global
 - **Description**: First project to get to know ReactJS - With a SWAPI integration in the backend
 - **Technologies**:
 <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
+<img alt="LARAVEL" src="https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" style="margin:2px;"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
 
