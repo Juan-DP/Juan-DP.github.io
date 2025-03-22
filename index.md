@@ -35,7 +35,26 @@ Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global
 
 - **Link**: [~~Website~~](https://milesandmore.daimani.com/) (Project was sunset - contract expired with client)
 
+### Project 3
+- **Description**: This project is designed to test a custom translation model trained using multilingual sentence pairs. The dataset includes translations in several languages:
 
+**Portuguese**
+**Chinese**
+**Russian**
+**Arabic**
+**Japanese**
+**Spanish**
+**German**
+**French**
+
+Additionally, contextual information is provided within the training files to enhance the model’s understanding and accuracy.
+
+- **Technologies**:
+<img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
+<img alt="PHP" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" style="margin:2px;"/>
+<img alt="PHP" src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai&logoColor=white" style="margin:2px;"/>
+
+- **Link**: [Github Repository](https://github.com/Juan-DP/OpenAITranslationModel/tree/main)
 ## About Me
 
 I am a versatile software engineer with a rich multicultural background and a dedication to delivering impactful, high-quality solutions.
