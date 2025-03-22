@@ -6,7 +6,7 @@ Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global
 - **Technologies**: 
 <img alt="PHP" src="https://shields.io/badge/-PHP-3776AB?style=flat&logo=php" style="margin:2px;"/>
 
-- **Link**: [GitHub Repository](#)
+- **Link**: [GitHub Repository](https://github.com/Juan-DP/Integration-Idea)
 
 ### Project 2
 - **Description**: First project to get to know ReactJS - With a SWAPI integration in the backend
