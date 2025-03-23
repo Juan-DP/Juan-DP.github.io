@@ -22,14 +22,14 @@ Hello! I'm Juan, a Software Engineer at [DAIMANI](https://www.daimani.com/global
 ### Project 3
 - **Description**: This project is designed to test a custom translation model trained using multilingual sentence pairs. The dataset includes translations in several languages:
 
-**Portuguese**
-**Chinese**
-**Russian**
-**Arabic**
-**Japanese**
-**Spanish**
-**German**
-**French**
+- **Portuguese**
+- **Chinese**
+- **Russian**
+- **Arabic**
+- **Japanese**
+- **Spanish**
+- **German**
+- **French**
 
 Additionally, contextual information is provided within the training files to enhance the model’s understanding and accuracy.
 
